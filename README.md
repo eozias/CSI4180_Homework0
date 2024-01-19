@@ -3,8 +3,9 @@
 
 **Files:**
 
- output.txt: word frequency list is written to this file after the program has been run
+ Report for Homework0.pdf: Required file for submission of the assignment. Not needed for running the program.
 
+ output.txt: word frequency list is written to this file after the program has been run
 
  ebookOne.txt: This file can be used to run the program (_The Great Gatsby_)
  
